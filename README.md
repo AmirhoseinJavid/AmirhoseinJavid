@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Amirhossein Javid and I'm a Front-end developer<br>ツ Trying for the near future</h2>
+
+![LinkedIn cover - 1](https://github.com/user-attachments/assets/653d97e3-1842-4b2a-98bb-6701b2f26ea2)
 
 ###
 
